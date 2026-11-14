@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify the CURA home page and navigate to the login form.</description>
+   <name>TC_CURA_HomeToLogin</name>
+   <tag>GenAI</tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <origin>STUDIOASSIST</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>741cdca0-265a-417f-8f93-c0387b381984</testCaseGuid>
+</TestCaseEntity>
