@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-01.1_Registrasi_DataValid</name>
+   <name>TC-01.1_Registrasi_Dengan_Data_Valid</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>1e3edd4d-c612-4c97-b067-e0f75ac0e8c3</testCaseGuid>
+   <testCaseGuid>ee47b746-46b6-4394-8c3f-97ed54c1a586</testCaseGuid>
 </TestCaseEntity>

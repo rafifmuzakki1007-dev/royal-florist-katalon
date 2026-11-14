@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-01.2_Registrasi_EmailSudahTerdaftar</name>
+   <name>TC-01.2_Registrasi_Dengan_Email_Yang_Sudah_Terdaftar</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2e0fd4cc-fe0f-4347-8ee3-8c6dac12eab1</testCaseGuid>
+   <testCaseGuid>aa164651-8d48-49f8-95eb-241f2df50e41</testCaseGuid>
 </TestCaseEntity>

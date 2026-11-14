@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TC-01.3_Registrasi_FieldKosong</name>
+   <name>TC-01.3_Eksplorasi_Server</name>
    <tag></tag>
    <integratedEntity>
       <productName>TESTOPS</productName>
@@ -27,5 +27,5 @@
    </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
-   <testCaseGuid>2fea041f-5fa0-4ed8-82ea-562b685c1219</testCaseGuid>
+   <testCaseGuid>24609400-bd0f-4182-8123-b8541b53d110</testCaseGuid>
 </TestCaseEntity>
