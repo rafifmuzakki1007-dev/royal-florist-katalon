@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-18.2_Memperbarui_Jumlah_Stok_Barang</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>84ecb0b2-f7ff-4f76-a2b2-a160fb66d14e</testCaseGuid>
+</TestCaseEntity>

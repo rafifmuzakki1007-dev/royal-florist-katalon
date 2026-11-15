@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-18.3_Memperbarui_Stok_Dengan_Nilai_Negatif</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>add754f4-a592-4d7c-926f-4c4cbc7b31f2</testCaseGuid>
+</TestCaseEntity>

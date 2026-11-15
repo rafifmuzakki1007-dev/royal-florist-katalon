@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-15.3_Mencari_Pelanggan_Yang_Tidak_Ditemukan</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a3ade87c-4f72-47f2-b959-57a0a7abeb60</testCaseGuid>
+</TestCaseEntity>
