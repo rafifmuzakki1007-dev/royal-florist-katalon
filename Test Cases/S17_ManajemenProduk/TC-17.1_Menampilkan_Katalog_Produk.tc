@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-17.1_Menampilkan_Katalog_Produk</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Mhmmdrafif</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>2b1ecab3-72ef-4575-9864-48d055abdb5f</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Mhmmdrafif</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>2b1ecab3-72ef-4575-9864-48d055abdb5f</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7dfd0c3-ab49-4cd2-9822-e439811b7650</testCaseGuid>
+</TestCaseEntity>

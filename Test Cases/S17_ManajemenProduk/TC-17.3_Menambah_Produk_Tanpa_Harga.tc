@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Memastikan sistem menolak penambahan produk apabila harga tidak diisi.</description>
+   <name>TC-17.3_Menambah_Produk_Tanpa_Harga</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Mhmmdrafif</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Mhmmdrafif</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>2b1ecab3-72ef-4575-9864-48d055abdb5f</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>2b1ecab3-72ef-4575-9864-48d055abdb5f</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7a5933a2-3449-4689-b785-c33062359356</testCaseGuid>
+</TestCaseEntity>
