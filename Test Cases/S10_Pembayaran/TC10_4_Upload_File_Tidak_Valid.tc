@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC10_4_Upload_File_Tidak_Valid</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>Muhammad Nodi Satriyo Fabian</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>Muhammad Nodi Satriyo Fabian</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>d7ed7b1e-0bc9-48dd-8435-4a0fca030a2b</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>d7ed7b1e-0bc9-48dd-8435-4a0fca030a2b</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2f111c08-71f8-4984-8b5c-91208dfbd1f1</testCaseGuid>
+</TestCaseEntity>

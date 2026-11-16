@@ -19,7 +19,7 @@ def obj = { String xp ->
 
 String shot = RunConfiguration.getProjectDir() + '/Docs/Screenshot/S15_ManajemenPelanggan/'
 String base = 'http://127.0.0.1:8000'
-String adminEmail = 'admin@royalflorist.com'
+String adminEmail = 'abi@gmail.com'
 String adminPass  = '12345678'
 
 String keyword = 'Rina'
