@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-19.2_menambah staff baru</name>
+   <tag></tag>
+   <integratedEntity>
+      <productName>TESTOPS</productName>
+      <properties>
+         <entry>
+            <key>createdByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByName</key>
+            <value>E SITI MAISYAROH</value>
+         </entry>
+         <entry>
+            <key>createdByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+         <entry>
+            <key>lastModifiedByUuid</key>
+            <value>aed0a835-0257-455a-83d4-d479dca4981e</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d4a0bbb4-e2c9-4d0e-ba59-9b4414484f98</testCaseGuid>
+</TestCaseEntity>
